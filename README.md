@@ -1,8 +1,4 @@
-# AudioSR-Colab-Fork
-
-
-*notebook will be released shortly...*
-
+# AudioSR-Colab-Fork v0.2
 
 
 Colab adaptation of AudioSR, with some tweaks:
