@@ -12,5 +12,11 @@ Colab adaptation of AudioSR, with some tweaks:
 Adaptation & tweaks by [jarredou](https://https://github.com/jarredou/)
 
 Original work [AudioSR: Versatile Audio Super-resolution at Scale](https://github.com/haoheliu/versatile_audio_super_resolution) by Haohe Liu, Ke Chen, Qiao Tian, Wenwu Wang, Mark D. Plumbley
-
-
+```
+@article{liu2023audiosr,
+  title={{AudioSR}: Versatile Audio Super-resolution at Scale},
+  author={Liu, Haohe and Chen, Ke and Tian, Qiao and Wang, Wenwu and Plumbley, Mark D},
+  journal={arXiv preprint arXiv:2309.07314},
+  year={2023}
+}
+```
